@@ -1,0 +1,14 @@
+.weather-dashboard {
+  background-color: #3a3f44;
+  min-height: 100vh;
+  width: 100%;
+}
+.weather-card-dasdhboard{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.weather-chart-dashborad{
+  width: 100%;
+  padding: 30px;
+}

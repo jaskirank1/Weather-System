@@ -1,0 +1,9 @@
+.weather-chart{
+    background-color: #53595f;
+    padding: 20px;
+    border-radius: 8px;
+}
+.weather-chart h2{
+    color: white;
+    margin-bottom: 18px;
+}
